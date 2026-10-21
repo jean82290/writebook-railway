@@ -1,0 +1,1 @@
+default: <%= [Integer(ENV.fetch("JOB_CONCURRENCY", "1")), 1].max %>
