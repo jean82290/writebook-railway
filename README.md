@@ -1,6 +1,6 @@
 # Writebook on Railway
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/writebook)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/writebook?utm_medium=integration&utm_source=template&utm_campaign=writebook)
 
 One-click Railway template for [Writebook](https://github.com/basecamp/writebook), the free publishing app from 37signals: write books, manuals and documentation in Markdown and publish them on the web, publicly or privately.
 
